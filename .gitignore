@@ -1,0 +1,9 @@
+# Ignore objects, images, tex files and archives, anywhere in the tree.
+*.asv
+*.png
+*.csv
+*.tex
+
+# Ignore output and input data
+/output/*.*
+/data/*.*
