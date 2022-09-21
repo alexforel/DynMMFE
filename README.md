@@ -1,6 +1,6 @@
 # Dynamic MMFE
 This code produces the results with synthetic data of the paper "Dynamic stochastic lot sizing with forecast evolution in
-rolling-horizon planning".
+rolling-horizon planning" published in Production & Operations Management,  [article available here.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/poms.13881)
 
 This code has been developed on `julia 1.6.0`.
 
